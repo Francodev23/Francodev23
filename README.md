@@ -1,18 +1,6 @@
-Want a crazy good website? Let's Discuss!
 
-GPRM
 
-Support us
-◄ Go Back
-Your Awesome Profile is ready !
-
-Copy Code
-Download Markdown File
-Create New
-Need help regarding this? Click here to watch Video.
-PREVIEW
-
-💫 About Me:
+💫 Sobre mi:
 💻 Desarrollador enfocado en la creación de soluciones web utilizando HTML, CSS, JavaScript y Python.
 🛠️ Experiencia construyendo sistemas funcionales con integración de bases de datos (PostgreSQL) y lógica backend.
 ⚙️ Trabajo con enfoque práctico, priorizando código limpio, funcionalidad y mejora continua.
@@ -20,7 +8,7 @@ PREVIEW
 💬 Interesado en desarrollo web, arquitectura de sistemas y buenas prácticas de programación.
 ⚡ Background en atención al cliente y ventas, lo que me permite entender al usuario y desarrollar soluciones útiles y orientadas a resultados.
 
-🌐 Socials:
+🌐 Redes:
 [Facebook](https://facebook.com/Marcos AB Franco) Instagram [LinkedIn](https://linkedin.com/in/Marcos Franco) X
 
 💻 Tech Stack:
