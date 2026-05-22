@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Desarrollador enfocado en la creación de soluciones web utilizando HTML, CSS, JavaScript y Python.<br>🛠️ Experiencia construyendo sistemas funcionales con integración de bases de datos (PostgreSQL) y lógica backend.<br>⚙️ Trabajo con enfoque práctico, priorizando código limpio, funcionalidad y mejora continua.<br>🚀 Capaz de adaptarme rápidamente a nuevos entornos y tecnologías, resolviendo problemas de forma eficiente.<br>💬 Interesado en desarrollo web, arquitectura de sistemas y buenas prácticas de programación.<br>⚡ Background en atención al cliente y ventas, lo que me permite entender al usuario y desarrollar soluciones útiles y orientadas a resultados.
+💻 Desarrollador enfocado en la creación de soluciones web utilizando HTML, CSS, JavaScript y Typescript.<br>🛠️ Experiencia construyendo sistemas funcionales con integración de bases de datos (PostgreSQL) y lógica backend.<br>⚙️ Trabajo con enfoque práctico, priorizando código limpio, funcionalidad y mejora continua.<br>🚀 Capaz de adaptarme rápidamente a nuevos entornos y tecnologías, resolviendo problemas de forma eficiente.<br>💬 Interesado en desarrollo web, arquitectura de sistemas y buenas prácticas de programación.<br>⚡ Background en atención al cliente y ventas, lo que me permite entender al usuario y desarrollar soluciones útiles y orientadas a resultados.
 
 
 ## 🌐 Socials:
